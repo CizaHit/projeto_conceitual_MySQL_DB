@@ -1,4 +1,4 @@
-# Refinando um Projeto Conceitual de Banco de Dados E-COMMERCE:
+# Refinando Um Projeto Conceitual de Banco de Dados E-COMMERCE:
 
 #### Projeto proposto no Bootcamp Coding the Future Heineken - Inteligência Artificial Aplicada a Dados com Copilot na plataforma [DIO.](https://www.dio.me/)
 
