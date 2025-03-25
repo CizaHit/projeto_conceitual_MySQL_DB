@@ -42,7 +42,7 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 
 ## Respostas do Desafio
 
-![img]()
+![img](https://github.com/CizaHit/projeto_conceitual_MySQL_DB/blob/main/e-commerce_Refinado.png)
 
 - Entidade Cliente: Foram criadas duas novas entidades, PJ_Pessoa Jurídica e PF_Pessoa Física, com o objetivo de armazenar as informações específicas relacionadas ao tipo de cliente, incluindo os dados de CNPJ e CPF, respectivamente.
 
