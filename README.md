@@ -53,7 +53,9 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 
 ## Certificado
 
-![img]()
+
+ - [Veja o meu Certificado](https://hermes.dio.me/certificates/CGXIBNGE.pdf)
 
 
-[Linkedin](www.linkedin.com/in/césar-tanizawa-eng-computacao/)
+
+[Me segue lá no Linkedin](www.linkedin.com/in/césar-tanizawa-eng-computacao/)
